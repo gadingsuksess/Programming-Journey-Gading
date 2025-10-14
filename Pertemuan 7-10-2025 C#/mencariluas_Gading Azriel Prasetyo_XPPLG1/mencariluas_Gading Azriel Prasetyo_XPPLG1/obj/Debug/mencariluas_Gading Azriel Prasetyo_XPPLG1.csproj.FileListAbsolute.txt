@@ -1,8 +1,0 @@
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\bin\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.exe.config
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\bin\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.exe
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\bin\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.pdb
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.exe
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.pdb
-C:\Users\LENOVO\Documents\Pertemuan 7-10-2025 C#\mencariluas_Gading Azriel Prasetyo_XPPLG1\mencariluas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\mencariluas_Gading Azriel Prasetyo_XPPLG1.exe.config
