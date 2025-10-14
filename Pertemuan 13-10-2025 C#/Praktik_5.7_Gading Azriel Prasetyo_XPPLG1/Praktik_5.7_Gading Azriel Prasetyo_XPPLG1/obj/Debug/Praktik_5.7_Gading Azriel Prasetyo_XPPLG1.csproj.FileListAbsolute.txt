@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\bin\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.exe.config
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\bin\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.exe
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\bin\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.pdb
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.exe
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.pdb
+C:\Users\LENOVO\Documents\Pertemuan 13-10-2025 C#\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Praktik_5.7_Gading Azriel Prasetyo_XPPLG1.exe.config
