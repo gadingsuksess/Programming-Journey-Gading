@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\bin\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.exe.config
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\bin\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.exe
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\bin\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.pdb
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.exe
+C:\Users\Zyrex\Documents\Punya Gading\Tugas_Gading Azriel Prasetyo_XPPLG1\Tugas_Gading Azriel Prasetyo_XPPLG1\obj\Debug\Tugas_Gading Azriel Prasetyo_XPPLG1.pdb

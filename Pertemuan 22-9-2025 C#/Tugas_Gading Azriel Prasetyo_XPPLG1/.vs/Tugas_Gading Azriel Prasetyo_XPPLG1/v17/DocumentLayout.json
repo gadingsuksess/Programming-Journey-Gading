@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zyrex\\Documents\\Punya Gading\\Tugas_Gading Azriel Prasetyo_XPPLG1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1588E-2F6F-4767-81DA-FCF65582EDF2}|Tugas_Gading Azriel Prasetyo_XPPLG1\\Tugas_Gading Azriel Prasetyo_XPPLG1.csproj|c:\\users\\zyrex\\documents\\punya gading\\tugas_gading azriel prasetyo_xpplg1\\tugas_gading azriel prasetyo_xpplg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1588E-2F6F-4767-81DA-FCF65582EDF2}|Tugas_Gading Azriel Prasetyo_XPPLG1\\Tugas_Gading Azriel Prasetyo_XPPLG1.csproj|solutionrelative:tugas_gading azriel prasetyo_xpplg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zyrex\\Documents\\Punya Gading\\Tugas_Gading Azriel Prasetyo_XPPLG1\\Tugas_Gading Azriel Prasetyo_XPPLG1\\Program.cs",
+              "RelativeDocumentMoniker": "Tugas_Gading Azriel Prasetyo_XPPLG1\\Program.cs",
+              "ToolTip": "C:\\Users\\Zyrex\\Documents\\Punya Gading\\Tugas_Gading Azriel Prasetyo_XPPLG1\\Tugas_Gading Azriel Prasetyo_XPPLG1\\Program.cs",
+              "RelativeToolTip": "Tugas_Gading Azriel Prasetyo_XPPLG1\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:13:05.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
