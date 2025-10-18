@@ -1,0 +1,7 @@
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\bin\Debug\praktik 3.3_Gading Azriel Prasetyo.exe.config
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\bin\Debug\praktik 3.3_Gading Azriel Prasetyo.exe
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\bin\Debug\praktik 3.3_Gading Azriel Prasetyo.pdb
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\obj\Debug\praktik 3.3_Gading Azriel Prasetyo.csproj.AssemblyReference.cache
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\obj\Debug\praktik 3.3_Gading Azriel Prasetyo.csproj.CoreCompileInputs.cache
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\obj\Debug\praktik 3.3_Gading Azriel Prasetyo.exe
+E:\Pertemuan 29-9-2025 punya Gading\praktik 3.3_Gading Azriel Prasetyo\praktik 3.3_Gading Azriel Prasetyo\obj\Debug\praktik 3.3_Gading Azriel Prasetyo.pdb

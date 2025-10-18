@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.9_Gading Azriel P._XPPLG1", "3.9_Gading Azriel P._XPPLG1\3.9_Gading Azriel P._XPPLG1.csproj", "{AFD967BD-9FA6-419F-A012-5AF12E174A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD967BD-9FA6-419F-A012-5AF12E174A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD967BD-9FA6-419F-A012-5AF12E174A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD967BD-9FA6-419F-A012-5AF12E174A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD967BD-9FA6-419F-A012-5AF12E174A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975F96BE-B642-493C-B25F-42C3AFB4817B}
+	EndGlobalSection
+EndGlobal
