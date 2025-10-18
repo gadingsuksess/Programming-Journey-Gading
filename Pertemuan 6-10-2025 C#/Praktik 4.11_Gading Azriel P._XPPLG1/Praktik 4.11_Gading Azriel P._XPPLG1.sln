@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktik 4.11_Gading Azriel P._XPPLG1", "Praktik 4.11_Gading Azriel P._XPPLG1\Praktik 4.11_Gading Azriel P._XPPLG1.csproj", "{0D993FE9-9836-40B6-AAEC-5B1A87DA0D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D993FE9-9836-40B6-AAEC-5B1A87DA0D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D993FE9-9836-40B6-AAEC-5B1A87DA0D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D993FE9-9836-40B6-AAEC-5B1A87DA0D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D993FE9-9836-40B6-AAEC-5B1A87DA0D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB7D813-1AB8-4BDF-90F7-A6236F643FE0}
+	EndGlobalSection
+EndGlobal

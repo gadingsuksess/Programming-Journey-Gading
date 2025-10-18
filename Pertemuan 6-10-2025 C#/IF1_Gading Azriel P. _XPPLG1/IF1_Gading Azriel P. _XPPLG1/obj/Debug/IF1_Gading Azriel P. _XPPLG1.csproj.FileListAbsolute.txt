@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\bin\Debug\IF1_Gading_Azriel_P._XPPLG1.exe.config
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\bin\Debug\IF1_Gading_Azriel_P._XPPLG1.exe
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\bin\Debug\IF1_Gading_Azriel_P._XPPLG1.pdb
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\obj\Debug\IF1_Gading Azriel P. _XPPLG1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\obj\Debug\IF1_Gading Azriel P. _XPPLG1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\obj\Debug\IF1_Gading_Azriel_P._XPPLG1.exe
+C:\Users\LENOVO\Documents\Pertemuan 6-10-2025 C#\IF1_Gading Azriel P. _XPPLG1\IF1_Gading Azriel P. _XPPLG1\obj\Debug\IF1_Gading_Azriel_P._XPPLG1.pdb
