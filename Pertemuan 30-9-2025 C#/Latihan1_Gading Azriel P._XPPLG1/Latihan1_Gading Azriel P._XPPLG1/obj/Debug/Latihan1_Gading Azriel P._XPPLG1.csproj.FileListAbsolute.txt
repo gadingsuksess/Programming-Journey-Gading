@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\bin\Debug\Latihan1_Gading Azriel P._XPPLG1.exe.config
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\bin\Debug\Latihan1_Gading Azriel P._XPPLG1.exe
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\bin\Debug\Latihan1_Gading Azriel P._XPPLG1.pdb
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\obj\Debug\Latihan1_Gading Azriel P._XPPLG1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\obj\Debug\Latihan1_Gading Azriel P._XPPLG1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\obj\Debug\Latihan1_Gading Azriel P._XPPLG1.exe
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 30-9-2025 C#\Latihan1_Gading Azriel P._XPPLG1\Latihan1_Gading Azriel P._XPPLG1\obj\Debug\Latihan1_Gading Azriel P._XPPLG1.pdb
