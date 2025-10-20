@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\SMK Kelas 10_C#\\Programming-Journey-Gading\\Pertemuan 20-10-2025 C#\\Fungsi_Hitung_Luas_Gading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F00591-592D-4290-B7DE-37B70BAF0C6B}|Fungsi_Hitung_Luas_Gading\\Fungsi_Hitung_Luas_Gading.csproj|c:\\users\\lenovo\\documents\\smk kelas 10_c#\\programming-journey-gading\\pertemuan 20-10-2025 c#\\fungsi_hitung_luas_gading\\fungsi_hitung_luas_gading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F00591-592D-4290-B7DE-37B70BAF0C6B}|Fungsi_Hitung_Luas_Gading\\Fungsi_Hitung_Luas_Gading.csproj|solutionrelative:fungsi_hitung_luas_gading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\SMK Kelas 10_C#\\Programming-Journey-Gading\\Pertemuan 20-10-2025 C#\\Fungsi_Hitung_Luas_Gading\\Fungsi_Hitung_Luas_Gading\\Program.cs",
+              "RelativeDocumentMoniker": "Fungsi_Hitung_Luas_Gading\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\SMK Kelas 10_C#\\Programming-Journey-Gading\\Pertemuan 20-10-2025 C#\\Fungsi_Hitung_Luas_Gading\\Fungsi_Hitung_Luas_Gading\\Program.cs",
+              "RelativeToolTip": "Fungsi_Hitung_Luas_Gading\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:28:47.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

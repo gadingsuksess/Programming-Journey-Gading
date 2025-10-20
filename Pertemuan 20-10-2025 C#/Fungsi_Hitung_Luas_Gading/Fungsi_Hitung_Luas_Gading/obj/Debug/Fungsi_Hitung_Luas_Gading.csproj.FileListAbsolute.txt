@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\bin\Debug\Fungsi_Hitung_Luas_Gading.exe.config
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\bin\Debug\Fungsi_Hitung_Luas_Gading.exe
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\bin\Debug\Fungsi_Hitung_Luas_Gading.pdb
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\obj\Debug\Fungsi_Hitung_Luas_Gading.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\obj\Debug\Fungsi_Hitung_Luas_Gading.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\obj\Debug\Fungsi_Hitung_Luas_Gading.exe
+C:\Users\LENOVO\Documents\Praktek C#\Pertemuan 20-10-2025 C#\Fungsi_Hitung_Luas_Gading\Fungsi_Hitung_Luas_Gading\obj\Debug\Fungsi_Hitung_Luas_Gading.pdb
