@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|c:\\users\\lenovo\\documents\\project c#\\projectakhir_gading\\projectakhir_gading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|solutionrelative:projectakhir_gading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\projectakhir_gading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|solutionrelative:projectakhir_gading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\projectakhir_gading\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|solutionrelative:projectakhir_gading\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|c:\\users\\lenovo\\documents\\project c#\\projectakhir_gading\\projectakhir_gading\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|solutionrelative:projectakhir_gading\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|c:\\users\\lenovo\\documents\\project c#\\projectakhir_gading\\projectakhir_gading\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAC5B0D-76A6-4500-A45C-F42F3697DA24}|ProjectAkhir_Gading\\ProjectAkhir_Gading.csproj|solutionrelative:projectakhir_gading\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\FormLogin.cs",
+              "RelativeDocumentMoniker": "ProjectAkhir_Gading\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\FormLogin.cs",
+              "RelativeToolTip": "ProjectAkhir_Gading\\FormLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:49:11.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\FormLogin.cs",
+              "RelativeDocumentMoniker": "ProjectAkhir_Gading\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\FormLogin.cs [Design]",
+              "RelativeToolTip": "ProjectAkhir_Gading\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:48:45.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectAkhir_Gading\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\FormLogin.Designer.cs",
+              "RelativeToolTip": "ProjectAkhir_Gading\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:48:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectAkhir_Gading\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\Form1.cs",
+              "RelativeToolTip": "ProjectAkhir_Gading\\Form1.cs",
+              "ViewState": "AgIAAEsCAAAAAAAAAAAuwF0DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:31:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectAkhir_Gading\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Project C#\\ProjectAkhir_Gading\\ProjectAkhir_Gading\\Form1.cs [Design]*",
+              "RelativeToolTip": "ProjectAkhir_Gading\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:36:39.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

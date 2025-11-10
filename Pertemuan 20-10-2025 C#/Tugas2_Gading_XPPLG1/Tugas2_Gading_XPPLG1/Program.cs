@@ -15,7 +15,7 @@ namespace Tugas2_Gading_XPPLG1
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("=== Menghitung nilai rata-rata dari 3 bilangan");
+            Console.WriteLine("=== Menghitung nilai rata-rata dari 3 bilangan ===");
 
             Console.Write("Masukkan angka pertama : ");
             double a = double.Parse(Console.ReadLine());

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjectAkhir_Gading/1.0.0": {
+        "runtime": {
+          "ProjectAkhir_Gading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectAkhir_Gading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
